@@ -240,22 +240,23 @@ body , html {
         align-items: center;
         height: 100vh;
         text-align: center;
+        background-image: url(../assets/668710af715ee34130943e1e72f96fda.jpg);
+        background-position: center;
     }
     .center1{
-        height: 80vh;
-        width: 80%; 
+        height: 90vh;
+        width: 50%; 
         font-family: $font2;
-        background-color: #fff;
+        background-color:#303a3b;
         display: flex;
         flex-direction: column;
-        
-        padding-right: 20%;
-       
+        padding-right: 15%;
+        border-radius: 20px;
     }
 
     .skillBox {
         box-sizing: border-box;
-        width: auto;
+        width: 100%;
         margin: 20px 0;
     }
 
